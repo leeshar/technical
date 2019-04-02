@@ -1,6 +1,6 @@
 # My Skills
 
-- Node.js
+- Node.js ( express )
 - Sass
 - React
 - Mysql
